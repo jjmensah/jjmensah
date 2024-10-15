@@ -1,5 +1,23 @@
-## Hi there 👋
+##👋 Hi there, I'm Joseph
+👩🏻‍💻 I'm passionate about **hardware**, **computer architecture**, **programming languages**, and **digital systems**.<br/>
+👩🏻‍🎓 I study Electrical & Computer Engineering and Computer Science at Cornell University<br/>
+🌱 I’m currently learning **Rust**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jjmensah&label=Profile%20views&color=0e75b6&style=flat" alt="jjmensah" /> </p>
+
+![](https://github-readme-stats.vercel.app/api?username=Ambrose2002&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+### 🔭 What I'm Working On
+- Fast Hardware Simulation with Just-in-Time Compilation
+
+### 📫 Let's Connect!
+- **Email**: [jjm536@cornell.edu](mailto:jjm536@cornell.com)
+- **LinkedIn**: [josephjuniormensah](https://www.linkedin.com/in/josephjuniormensah/)
+- **Personal Website**: [jjmensah.github.io](https://jjmensah.github.io)
+
+### 😄 Pronouns
+He/Him
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jjmensah&" alt="tsehben" /></p>
 <!--
 **jjmensah/jjmensah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
