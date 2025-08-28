@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjmensah&label=Profile%20views&color=0e75b6&style=flat" alt="jjmensah" /> </p>
 
-![](https://github-readme-stats.vercel.app/api?username=jjmensah&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
 ### 🔭 What I'm Working On
 - Fast Hardware Simulation with Just-in-Time Compilation
 
