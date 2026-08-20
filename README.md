@@ -7,3 +7,4 @@
 
 ### 🔭 What I'm Working On
 - FPGA Tech Mapping
+- ML Applications for Timing Convergence
