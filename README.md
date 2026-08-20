@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Joseph!
-👨🏻‍💻 I'm passionate about **hardware**, **computer architecture**, **programming languages**, and **digital systems**.<br/>
+👨🏻‍💻 I'm passionate about **hardware**, **machine learning**, **programming languages**, and **digital systems**.<br/>
 👨🏻‍🎓 I study Electrical & Computer Engineering and Computer Science at Cornell University<br/>
 🌱 I’m currently learning **Rust**
 
